@@ -7,6 +7,7 @@
 - #847 Avoid printing autoimport syntax errors (@yangfan-yf-yf)
 - #623, #819, #863 Support MatchOr, MatchSequence, MatchStar (@jheld, @lieryan)
 - #868 Fix patchedast matching tokens inside string literals
+- #869 Fix source folder detection stopping at the first package
 
 # Release 1.14.0
 
